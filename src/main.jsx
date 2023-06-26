@@ -10,7 +10,7 @@ import {
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Link to={"app"}>Hello world!</Link>,
+    element: <Link to={"app"}>Hello world app</Link>,
   },
   {
     path: "/app",
